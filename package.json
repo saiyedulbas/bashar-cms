@@ -1,4 +1,6 @@
 {
+    "title": "bashar_cms_app",
+    "author": "Saiyedul Bashar",
     "private": true,
     "scripts": {
         "dev": "npm run development",
